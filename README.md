@@ -2,5 +2,5 @@
 Shows my knowledge of the Queue data structure. Adds and removes from the front and back of a Queue.
 
 # How to run
-javac Queue.java<b>
+javac Queue.java<br>
 java Queue
