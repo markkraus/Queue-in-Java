@@ -11,7 +11,7 @@
 
 import java.util.*;
 
-public class CS445Rec1
+public class Queue
 {
 	public static void main(String [] args)
 	{
